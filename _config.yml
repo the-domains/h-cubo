@@ -6,9 +6,9 @@ color:
   saturation: 0.9995182964485139
   rhythmicContrast: 0.3909256998449564
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: H-CUBO

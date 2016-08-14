@@ -1,13 +1,13 @@
 ---
-description: SUPPORT H-CUBO
-dateModified: '2016-08-14T23:25:30.152Z'
-datePublished: '2016-08-14T23:25:39.350Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-14T23:26:55.453Z'
 sourcePath: _posts/2016-08-14-support-h-cubo.md
+author: []
+via: {}
+dateModified: '2016-08-14T23:26:44.177Z'
+title: ''
+publisher: {}
+description: SUPPORT H-CUBO
+starred: false
 inFeed: true
 hasPage: false
 inNav: false

@@ -5,18 +5,17 @@ description: >-
   exhibited by the Smithsonian Institution -- science, history, art, popular
   culture and innovation -- and chronicling them every day for our diverse
   readership. 
-dateModified: '2016-08-14T09:33:55.762Z'
-datePublished: '2016-08-14T09:34:25.105Z'
+dateModified: '2016-08-14T09:36:32.931Z'
+datePublished: '2016-08-14T09:36:33.567Z'
 title: Smithsonian.com
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-14-smithsoniancom.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: smithsoniancom/index.html
+_type: Blurb
 
 ---
 # **Smithsonian.com**

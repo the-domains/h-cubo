@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[H-CUBO @ thegrid]]></title>
+        <description><![CDATA[H-CUBO @ thegrid]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 14 Aug 2016 23:09:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Little Cat]]></title>
+            <description><![CDATA[<article><h1>The Little Cat</h1><p>One day, an old man was having a stroll in the forest when he suddenly saw a little cat stuck in a hole. The poor animal was struggling to get out. So, he gave him his hand to get him out. But the cat scratched his hand with fear. The man pulled his hand screaming with pain. But he did not stop; he tried to give a hand to the cat again and again..</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e716190d-a963-4465-bab5-8940bfe9e5f5.png"></article>]]></description>
+            <link>undefinedthe-little-cat/index.html</link>
+            <guid isPermaLink="false">84a9b3ec-fca4-413a-94cd-c28e70676805</guid>
+            <pubDate>Sun, 14 Aug 2016 23:09:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

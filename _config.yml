@@ -1,14 +1,14 @@
-layout_spectrum: 0.5210518387611955
-typography_spectrum: 0.4154106935020536
+layout_spectrum: 0.4605439458973706
+typography_spectrum: 0.7074797370005399
 color:
-  brandStrength: 0.9004227144178003
-  lightness: 0.7074806846212596
-  saturation: 0.9995182964485139
-  rhythmicContrast: 0.3909256998449564
+  brandStrength: 0.8785033337771893
+  lightness: 0.4461920440662652
+  saturation: 0.9076696294359863
+  rhythmicContrast: 0.3960282087791711
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: H-CUBO

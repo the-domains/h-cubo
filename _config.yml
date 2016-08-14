@@ -23,3 +23,6 @@ navigation:
   - name: Megan Fox
     id: cecfd566-b947-4242-b7d3-7400292718be
     type: content
+  - name: Smithsonian.com
+    id: 33c62a77-a58e-4e46-b11f-1527e3123431
+    type: content

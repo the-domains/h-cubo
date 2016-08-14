@@ -1,5 +1,6 @@
-layout_spectrum: 0.4549843284767121
 typography_spectrum: 0.1415875139646232
+content_rating:
+  adult: false
 color:
   brandStrength: 0.9262341957073659
   lightness: 0.8532421642448753
@@ -11,4 +12,7 @@ color:
     - '#5E6D70'
     - '#424E4F'
     - '#1B1D1E'
+opengraph:
+  type: ''
+layout_spectrum: 0.4549843284767121
 name: H-CUBO

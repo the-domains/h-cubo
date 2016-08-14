@@ -1,11 +1,11 @@
-typography_spectrum: 0.1415875139646232
+typography_spectrum: 0.33937975228764117
 content_rating:
   adult: false
 color:
-  brandStrength: 0.9262341957073659
-  lightness: 0.8532421642448753
-  saturation: 0.1894464639481157
-  rhythmicContrast: 0.7994788391515613
+  brandStrength: 0.09074916550889611
+  lightness: 0.20802881265990436
+  saturation: 0.6809446068946272
+  rhythmicContrast: 0.3823589978273958
   brandColors:
     - '#FF6600'
     - '#C13B00'
@@ -15,7 +15,7 @@ color:
 opengraph:
   type: ''
   image: null
-layout_spectrum: 0.4549843284767121
+layout_spectrum: 0.8597458903677762
 logo: null
 name: H-CUBO @ thegrid
 favicon: >-

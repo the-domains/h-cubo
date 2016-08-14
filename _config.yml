@@ -1,18 +1,14 @@
-layout_spectrum: 0.44344367319718003
-typography_spectrum: 0.5570244889240712
+layout_spectrum: 0.5210518387611955
+typography_spectrum: 0.4154106935020536
 color:
-  brandStrength: 0.26145461620762944
-  lightness: 0.9902288042940199
-  saturation: 0.7225903393700719
-  rhythmicContrast: 0.3890237221494317
+  brandStrength: 0.9004227144178003
+  lightness: 0.7074806846212596
+  saturation: 0.9995182964485139
+  rhythmicContrast: 0.3909256998449564
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: H-CUBO
-navigation:
-  - name: Teste
-    url: 'http://h-cubo.blogspot.pt/'
-    type: external

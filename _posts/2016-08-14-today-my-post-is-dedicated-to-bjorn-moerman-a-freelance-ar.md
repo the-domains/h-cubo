@@ -1,4 +1,16 @@
 ---
+datePublished: '2016-08-14T01:11:32.707Z'
+sourcePath: >-
+  _posts/2016-08-14-today-my-post-is-dedicated-to-bjorn-moerman-a-freelance-ar.md
+author:
+  - url: 'http://www.bjornmoerman.com/'
+    name: BJORN MOERMAN
+via: {}
+dateModified: '2016-08-14T01:11:03.668Z'
+title: ''
+publisher:
+  name: VIEW MORE
+  url: 'http://h-cubo.blogspot.pt/2015/10/bjorn-moerman.html'
 description: >-
   Today, my post is dedicated to Bjorn Moerman, a freelance ARCHITECTURAL,
   AVIATION and TRAVELphotographer, based in Dubai.
@@ -13,19 +25,7 @@ description: >-
   stunning work!
 
   Thank you Bjorn, for your Art!
-dateModified: '2016-08-14T01:08:46.210Z'
-datePublished: '2016-08-14T01:09:07.406Z'
-title: ''
-author:
-  - url: 'http://www.bjornmoerman.com/'
-    name: BJORN MOERMAN
-publisher:
-  name: VIEW MORE
-  url: 'http://h-cubo.blogspot.pt/2015/10/bjorn-moerman.html'
-via: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-14-today-my-post-is-dedicated-to-bjorn-moerman-a-freelance-ar.md
 inFeed: true
 hasPage: false
 inNav: false

@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-14T00:22:12.330Z'
+datePublished: '2016-08-14T00:22:58.004Z'
 sourcePath: _posts/2016-08-14-salgados-resort.md
 author: []
 via: {}
-dateModified: '2016-08-14T00:22:11.113Z'
+dateModified: '2016-08-14T00:22:57.071Z'
 title: Salgados Resort
 publisher: {}
 description: ''

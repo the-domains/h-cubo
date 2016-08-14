@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-13T23:41:32.385Z'
+datePublished: '2016-08-14T00:46:56.932Z'
 sourcePath: _posts/2016-04-19-7-amazing-photos-to-celebrate-national-parks-week-moment.md
 inFeed: true
 isBasedOnUrl: >-
@@ -38,7 +38,8 @@ author:
   - name: isabelthottam@gmail.com
     url: 'http://momentlens.co/momentist/author/isabelthottam-gmail-com/'
     avatar: {}
-dateModified: '2016-08-13T23:41:31.876Z'
+via: {}
+dateModified: '2016-08-14T00:46:56.024Z'
 title: 7 Amazing Photos To Celebrate National Parks Week - Moment
 app_links: []
 publisher:
@@ -54,10 +55,9 @@ description: >-
   wildlife and camping with friends and family.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>7 Amazing Photos To Celebrate National Parks Week - Moment</h1><p>It's National Parks Week! This year is a big one to celebrate as the National Park Service celebrates its 100th birthday! That's 100 years of road trips out west, swimming in lakes, climbing mountains, sharing the roadways with roaming wildlife and camping with friends and family.</p><img src="https://momentlens.co/wp-content/uploads/2016/04/Glacier-Road_Yosemite_opt.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4c5bb90ced78cfeb04f0a6e320408110f333e39.jpg" /><h1>7 Amazing Photos To Celebrate National Parks Week - Moment</h1><p>It's National Parks Week! This year is a big one to celebrate as the National Park Service celebrates its 100th birthday! That's 100 years of road trips out west, swimming in lakes, climbing mountains, sharing the roadways with roaming wildlife and camping with friends and family.</p></article>

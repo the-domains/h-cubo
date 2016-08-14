@@ -1,0 +1,38 @@
+---
+description: >-
+  Today, my post is dedicated to Bjorn Moerman, a freelance ARCHITECTURAL,
+  AVIATION and TRAVELphotographer, based in Dubai.
+
+  Over the years, He had the honour to work for an extensive selection of
+  international clients and his photography has been published in a large
+  variety of books and magazines including National Geographic, Flight
+  International, Architecture and Urbanism, Frame and many more…
+
+  In the Summer of 2014, He was honoured to be chosen as an ambassador for
+  Fujifilm, becoming one of their official X Photographers...please enjoy his
+  stunning work!
+
+  Thank you Bjorn, for your Art!
+dateModified: '2016-08-14T01:08:46.210Z'
+datePublished: '2016-08-14T01:09:07.406Z'
+title: ''
+author:
+  - url: 'http://www.bjornmoerman.com/'
+    name: BJORN MOERMAN
+publisher:
+  name: VIEW MORE
+  url: 'http://h-cubo.blogspot.pt/2015/10/bjorn-moerman.html'
+via: {}
+starred: false
+sourcePath: >-
+  _posts/2016-08-14-today-my-post-is-dedicated-to-bjorn-moerman-a-freelance-ar.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
+
+---
+![Today, my post is dedicated to Bjorn Moerman, a freelance ARCHITECTURAL, AVIATION and TRAVELphotographer, based in Dubai.
+Over the years, He had the honour to work for an extensive selection of international clients and his photography has been published in a large variety of books and magazines including National Geographic, Flight International, Architecture and Urbanism, Frame and many more…
+In the Summer of 2014, He was honoured to be chosen as an ambassador for Fujifilm, becoming one of their official X Photographers...please enjoy his stunning work!
+Thank you Bjorn, for your Art!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5d99ba3-4834-4edf-8326-2478e89942fd.jpg)

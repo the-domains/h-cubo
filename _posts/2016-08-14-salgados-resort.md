@@ -1,12 +1,27 @@
 ---
-datePublished: '2016-08-14T00:22:58.004Z'
+datePublished: '2016-08-14T00:45:32.740Z'
 sourcePath: _posts/2016-08-14-salgados-resort.md
 author: []
 via: {}
-dateModified: '2016-08-14T00:22:57.071Z'
+dateModified: '2016-08-14T00:45:32.083Z'
 title: Salgados Resort
 publisher: {}
-description: ''
+description: >-
+  The hotel Salgados Palace is located near Albufeira, between the golf and the
+  beach, at Herdade dos Salgados.
+
+  With majestic interiors, its design is contemporary, however cosy. Here, you
+  will find plenty to spend your time. In the morning, walk along the Salgados
+  Beach or explore the Salgados Lagoon. Later in the day, lounge around one the
+  3 outdoor pools, before a massage in the magnificent SPA. By late afternoon,
+  save some time for an aperitif in the Sunset Bar, whilst enjoying, in the
+  horizon over the nature reserve, the spectacle of colours after which the bar
+  was named, followed by dinner in one of our restaurants. The hotel has 228
+  accommodation units and features great facilities, as well as a modern
+  Congress Centre, the biggest private owned congress center in Portugal. If
+  your looking for holidays in 5 star hotels in Albufeira near the beach, the
+  hotel Salgados Palace is the best of both worlds, a place where design and
+  comfort walk hand-in-hand, between the golf and the beach.
 starred: false
 inFeed: true
 hasPage: false
@@ -14,8 +29,6 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9678b45-f074-48ed-8b54-538d5f095bfc.jpg)
-
 # Salgados Resort
 ![The hotel Salgados Palace is located near Albufeira, between the golf and the beach, at Herdade dos Salgados.
 With majestic interiors, its design is contemporary, however cosy. Here, you will find plenty to spend your time. In the morning, walk along the Salgados Beach or explore the Salgados Lagoon. Later in the day, lounge around one the 3 outdoor pools, before a massage in the magnificent SPA. By late afternoon, save some time for an aperitif in the Sunset Bar, whilst enjoying, in the horizon over the nature reserve, the spectacle of colours after which the bar was named, followed by dinner in one of our restaurants. The hotel has 228 accommodation units and features great facilities, as well as a modern Congress Centre, the biggest private owned congress center in Portugal. If your looking for holidays in 5 star hotels in Albufeira near the beach, the hotel Salgados Palace is the best of both worlds, a place where design and comfort walk hand-in-hand, between the golf and the beach.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50cd8970-cc2e-40c7-bb94-7672c0937e4a.jpg)

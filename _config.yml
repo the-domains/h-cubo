@@ -18,10 +18,6 @@ opengraph:
 layout_spectrum: 0.4549843284767121
 logo: null
 name: H-CUBO @ thegrid
-navigation:
-  - name: Rubia Stri
-    id: 2b5dd9f0-61d7-4e9a-8107-a60ae9c168d7
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef20faa4-56a0-439d-9175-3403e4644c0a.png
 title: ''

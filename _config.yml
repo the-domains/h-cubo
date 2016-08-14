@@ -16,13 +16,3 @@ opengraph:
   type: ''
 layout_spectrum: 0.4549843284767121
 name: H-CUBO
-navigation:
-  - name: Rubia Stri
-    id: 2b5dd9f0-61d7-4e9a-8107-a60ae9c168d7
-    type: content
-  - name: Megan Fox
-    id: cecfd566-b947-4242-b7d3-7400292718be
-    type: content
-  - name: Smithsonian.com
-    id: 33c62a77-a58e-4e46-b11f-1527e3123431
-    type: content

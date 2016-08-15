@@ -1,14 +1,12 @@
 ---
-datePublished: '2016-08-15T08:44:49.851Z'
+datePublished: '2016-08-15T08:45:33.867Z'
 sourcePath: _posts/2016-08-14-rubia-stri.md
 isBasedOnUrl: 'http://thegrid.ai/h-cubo/rubia'
 author: []
 via: {}
-dateModified: '2016-08-15T08:44:49.059Z'
+dateModified: '2016-08-15T08:45:32.965Z'
 title: Rubia Stri
-publisher:
-  name: VIEW MORE
-  url: 'http://h-cubo.blogspot.pt/2015/10/rubia-stri.html'
+publisher: {}
 description: >-
   A special thanks to my friend Rubia Stri that allow me to publish her
   fantastic work! Rubia is a freelance model from Belgium. She lives in Belgium

@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-14T23:29:31.405Z'
+datePublished: '2016-08-15T08:29:08.599Z'
 sourcePath: _posts/2016-08-14-support-h-cubo.md
 isBasedOnUrl: ''
 author: []
 via: {}
-dateModified: '2016-08-14T23:29:30.143Z'
+dateModified: '2016-08-15T08:29:08.018Z'
 title: SUPPORT H-CUBO
 publisher: {}
 description: ''
@@ -16,6 +16,9 @@ _type: MediaObject
 
 ---
 # SUPPORT H-CUBO
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- grid1 --> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8410302741304269" data-ad-slot="7419354212"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec976310-72f3-4c3b-8719-57423e2fd7d0.jpg)
 
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- grid1 --> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8410302741304269" data-ad-slot="7419354212"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>

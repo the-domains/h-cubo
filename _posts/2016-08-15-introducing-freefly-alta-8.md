@@ -65,11 +65,11 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/j1CVh0H87Rk?t=1m2s'
 title: Introducing Freefly ALTA 8
-datePublished: '2016-08-15T09:08:11.501Z'
-dateModified: '2016-08-15T09:06:22.073Z'
+datePublished: '2016-08-15T10:26:13.149Z'
+dateModified: '2016-08-15T10:26:13.047Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-15-introducing-freefly-alta-8.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false

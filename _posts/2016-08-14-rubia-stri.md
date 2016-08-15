@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-15T08:41:39.480Z'
+datePublished: '2016-08-15T08:43:35.338Z'
 sourcePath: _posts/2016-08-14-rubia-stri.md
 isBasedOnUrl: 'http://thegrid.ai/h-cubo/rubia'
 author: []
 via: {}
-dateModified: '2016-08-15T08:41:38.694Z'
+dateModified: '2016-08-15T08:43:34.461Z'
 title: Rubia Stri
 publisher:
   name: VIEW MORE
@@ -27,23 +27,5 @@ _type: MediaObject
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66e49453-910f-451f-a612-6f200db544cb.jpg)
 
 A special thanks to my friend Rubia Stri that allow me to publish her fantastic work! Rubia is a freelance model from Belgium. She lives in Belgium but work worldwide. She is available for fashion, commercial and art. Check her portofolio and enjoy her excellent work. She already visited Portugal and loved, hope you visit us very soon...and enjoy this small ... but Great Country.
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"\></script\>
-
-<!-- grid1 --\>
-
-<ins class="adsbygoogle"
-
-style="display:inline-block;width:728px;height:90px"
-
-data-ad-client="ca-pub-8410302741304269"
-
-data-ad-slot="7419354212"\></ins\>
-
-<script\>
-
-(adsbygoogle = window.adsbygoogle || \[\]).push({});
-
-</script\>
 
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- grid1 --> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8410302741304269" data-ad-slot="7419354212"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>

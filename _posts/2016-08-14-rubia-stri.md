@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-15T08:43:35.338Z'
+datePublished: '2016-08-15T08:44:49.851Z'
 sourcePath: _posts/2016-08-14-rubia-stri.md
 isBasedOnUrl: 'http://thegrid.ai/h-cubo/rubia'
 author: []
 via: {}
-dateModified: '2016-08-15T08:43:34.461Z'
+dateModified: '2016-08-15T08:44:49.059Z'
 title: Rubia Stri
 publisher:
   name: VIEW MORE

@@ -1,4 +1,13 @@
 ---
+datePublished: '2016-08-15T08:39:17.191Z'
+sourcePath: _posts/2016-08-14-rubia-stri.md
+author: []
+via: {}
+dateModified: '2016-08-15T08:39:16.348Z'
+title: Rubia Stri
+publisher:
+  name: VIEW MORE
+  url: 'http://h-cubo.blogspot.pt/2015/10/rubia-stri.html'
 description: >-
   A special thanks to my friend Rubia Stri that allow me to publish her
   fantastic work! Rubia is a freelance model from Belgium. She lives in Belgium
@@ -6,16 +15,7 @@ description: >-
   her portofolio and enjoy her excellent work. She already visited Portugal and
   loved, hope you visit us very soon...and enjoy this small ... but Great
   Country.
-dateModified: '2016-08-14T23:01:48.753Z'
-datePublished: '2016-08-14T23:02:15.459Z'
-title: Rubia Stri
-author: []
-publisher:
-  name: view more
-  url: 'http://h-cubo.blogspot.pt/2015/10/rubia-stri.html'
-via: {}
 starred: false
-sourcePath: _posts/2016-08-14-rubia-stri.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -26,3 +26,23 @@ _type: MediaObject
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66e49453-910f-451f-a612-6f200db544cb.jpg)
 
 A special thanks to my friend Rubia Stri that allow me to publish her fantastic work! Rubia is a freelance model from Belgium. She lives in Belgium but work worldwide. She is available for fashion, commercial and art. Check her portofolio and enjoy her excellent work. She already visited Portugal and loved, hope you visit us very soon...and enjoy this small ... but Great Country.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"\></script\>
+
+<!-- grid1 --\>
+
+<ins class="adsbygoogle"
+
+style="display:inline-block;width:728px;height:90px"
+
+data-ad-client="ca-pub-8410302741304269"
+
+data-ad-slot="7419354212"\></ins\>
+
+<script\>
+
+(adsbygoogle = window.adsbygoogle || \[\]).push({});
+
+</script\>
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- grid1 --> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8410302741304269" data-ad-slot="7419354212"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
